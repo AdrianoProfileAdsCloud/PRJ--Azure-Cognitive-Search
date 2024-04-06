@@ -7,7 +7,7 @@ Projeto tem como objetivo demonstrar com um passo, como aplicar as técnicas de 
 
  [<center> Microsoft Learn</center>](https://aka.ms/ai900-ai-search)
 
- <p> Ao final, ganharemos uma visão prática das potencialidades oferecidas por essas ferramentas na mineração de conhecimento.
+ <p> Ao final, foi possível ter uma visão prática das potencialidades oferecidas por essas ferramentas na mineração de conhecimento.
    Para conseguir alcançar o resultado esperado será feito a combinação dos três serviços a seguir:</>
 
 ## Azure AI Services - Azure AI Search
