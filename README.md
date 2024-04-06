@@ -10,6 +10,9 @@ Projeto tem como objetivo demonstrar com um passo, como aplicar as técnicas de 
  <p> Ao final, foi possível ter uma visão prática das potencialidades oferecidas por essas ferramentas na mineração de conhecimento.
    Para conseguir alcançar o resultado esperado será feito a combinação dos três serviços a seguir:</>
 
+### Objetivo do emprego dos Serviços do Azure
+  <p>Compor uma solução para uma dada rede de cafeteria fictícia que deseja obter de forma centralizada informações referentes a satisfação do cliente em relação aos serviços prestados e a infraestrutura das cafeterias da rede.</p>
+
 ## Azure AI Services - Azure AI Search
 ![alt text](images/AISearch.png)
 
